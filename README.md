@@ -1,3 +1,2 @@
-# Projeto Youtube
-Esse projeto consiste em baixar vídeos e músicas do Youtube de forma rápida e prática.
-Aproveitem bem!
+# Project Youtube
+This project consists of downloading videos and music from Youtube quickly and conveniently. Enjoy!
